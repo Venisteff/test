@@ -1,8 +1,8 @@
 document.querySelector("#finish").addEventListener("click",checkTest)
 function checkTest(){
-    let x=0
-    let q4v0_0="старший сержант"
-    let q4v0_1="старшийсержант"
+    let x = 0
+    let q4v0_0 = "старший сержант"
+    let q4v0_1 = "старшийсержант"
     if(document.getElementById('q1v1').checked == true) {   
         x++
     } 
